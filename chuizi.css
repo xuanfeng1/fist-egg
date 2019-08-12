@@ -1,0 +1,464 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* 以下内容为头部 */
+#header{
+    margin: 0 auto;
+    overflow: hidden;
+}
+.hehe{
+    margin: 0 auto;
+    width:100% ;
+    height: 43px;
+    background: #28292b; 
+    overflow: hidden;
+}
+.hehe .img01{
+   float: left;
+   width: 20px;
+   padding-top: 10px;
+   padding-left: 50px;
+}
+.hehe ul li{
+    color: #817f87;
+    font-size: 14px;
+    list-style: none;
+    float: left;
+    padding-left: 50px;
+    padding-top: 15px;
+}
+.hehe .frist{
+    padding-left: 250px;
+    color: #fff;
+}
+.hehe span{
+    float: right;
+}
+.span img{
+    width: 20px;
+    padding-top: 10px;
+    padding-right: 30px;
+}
+.haha{
+    margin: 0 auto;
+    overflow: hidden;
+    width: 100%;
+    height: 75px;
+}
+.haha ul li{
+    float: left;
+    list-style: none;
+    padding-left: 50px;
+    font-size: 14px;
+    padding-top: 20px;
+}
+.sou{
+    width:325px ;
+    height: 33px;
+    border: 1px solid #817f87;
+    float: right;
+   margin-top: 15px;
+   margin-right:100px ;
+   border-radius: 19px;
+}
+.sou input{
+    text-align: center;
+    font-size: 10px;
+    width: 23px;
+    height: 15px;
+    background: #e5efff;
+    color: #789be1;
+    border: 1px solid #d3e0fc;
+    border-radius: 10px;
+    float: right;
+   margin-top: 10px;
+   margin-right: 10px;
+}
+.sou img{
+    width: 23px;
+    height: 20px;
+    margin-top: 10px;
+   margin-left: 10px;
+}
+#banner{
+    width: 100%;
+    height:540px ;
+    margin: 0 auto;
+    background: #ededed;
+    text-align: center;
+}
+#banner img{
+    padding-top: 20px;
+}
+/* 以下内容为主体 */
+#main{
+    width: 100%;
+    height:4210px ;
+    margin: 0 auto;
+    background: #ededed;
+} 
+.box01{
+    width:1220px ;
+    height: 485px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background: #fff;
+} 
+.box01 table tr td img{
+    width:304px ;
+    height:265px ;
+} 
+.box01 table{
+    border-collapse: collapse;
+    border-spacing: 0px;
+    border-bottom-color: #fff;
+}
+.box01 table tr td{
+    text-align: center;
+    border: 1px solid #ccc;
+    border-bottom-color: #fff;
+    height: 429px;
+}
+.box01 table tr td p{
+    padding-top: 10px;
+}
+.box01 table tr td small{
+    color: #817f87;
+    padding-top: 10px;
+    font-size: 12px;
+}
+.box01 table tr td u{
+    text-decoration: none;
+    color: red;
+}
+.tou01{
+    width:1220px ;
+    height: 56px;
+    background: #fafafa;
+}
+.tou01 p{
+    font-size: 17px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+.box02 {
+    width:1220px ;
+    height: 914px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background: #fff;
+    margin-top: 20px;
+}
+.box02 .img02{
+    width:609px ;
+    height: 426px;
+}
+.box02 table tr td img{
+    width:304px ;
+    height:265px;
+} 
+.box02 table{
+    border-collapse: collapse;
+    border-spacing: 0px;
+    border-bottom-color: #fff;
+}
+.box02 table tr td{
+    text-align: center;
+    border: 1px solid #ccc;
+    /* border-bottom-color: #fff; */
+    height: 427px;
+}
+.box02 table tr td p{
+    padding-top: 10px;
+}
+.box02 table tr td small{
+    color: #817f87;
+    padding-top: 10px;
+    font-size: 12px;
+}
+.box02 table tr td u{
+    text-decoration: none;
+    color: red;
+}
+
+.tou2{
+    width:1220px ;
+    height: 56px;
+    background: #fafafa;
+}
+.tou2 p{
+    font-size: 17px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+.box03{
+    width:1220px ;
+    height: 485px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background: #fff;
+    margin-top: 20px;
+} 
+.box03 table tr td img{
+    width: 301px;
+    height: 285px;
+} 
+.box03 table{
+    border-collapse: collapse;
+    border-spacing: 0px;
+    border-bottom-color: #fff;
+}
+.box03 table tr td{
+    text-align: center;
+    border: 1px solid #ccc;
+    border-bottom-color: #fff;
+    height: 425px;
+}
+.box03 table tr td p{
+    padding-top: 10px;
+}
+.box03 table tr td small{
+    color: #817f87;
+    padding-top: 10px;
+    font-size: 12px;
+}
+.box03 table tr td u{
+    text-decoration: none;
+    color: red;
+}
+.box03 .img04{
+    width: 614px;
+    height: 429px;
+}
+.tou03{
+    width:1220px ;
+    height: 56px;
+    background: #fafafa;
+}
+.tou03 p{
+    font-size: 17px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+.box04{
+    width:1220px ;
+    height: 914px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background: #fff;
+    margin-top: 20px;
+}
+.box04 .img05{
+    width:609px ;
+    height: 429px;
+}
+.box04 table tr td img{
+    width:304px ;
+    height:265px;
+} 
+.box04 table{
+    border-collapse: collapse;
+    border-spacing: 0px;
+    border-bottom-color: #fff;
+}
+.box04 table tr td{
+    text-align: center;
+    border: 1px solid #ccc;
+    /* border-bottom-color: #fff; */
+    height: 425px;
+}
+.box04 table tr td p{
+    padding-top: 10px;
+}
+.box04 table tr td small{
+    color: #817f87;
+    padding-top: 10px;
+    font-size: 12px;
+}
+.box04 table tr td u{
+    text-decoration: none;
+    color: red;
+}
+
+.tou4{
+    width:1220px ;
+    height: 56px;
+    background: #fafafa;
+}
+.tou4 p{
+    font-size: 17px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+.box05{
+    width:1220px ;
+    height: 914px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background: #fff;
+    margin-top: 20px;
+}
+.box05 .img06{
+    width:609px ;
+    height: 429px;
+}
+.box05 table tr td img{
+    width:304px ;
+    height:265px;
+} 
+.box05 table{
+    border-collapse: collapse;
+    border-spacing: 0px;
+    border-bottom-color: #fff;
+}
+.box05 table tr td{
+    text-align: center;
+    border: 1px solid #ccc;
+    /* border-bottom-color: #fff; */
+    height: 425px;
+}
+.box05 table tr td p{
+    padding-top: 10px;
+}
+.box05 table tr td small{
+    color: #817f87;
+    padding-top: 10px;
+    font-size: 12px;
+}
+.box05 table tr td u{
+    text-decoration: none;
+    color: red;
+}
+
+.tou5{
+    width:1220px ;
+    height: 56px;
+    background: #fafafa;
+}
+.tou5 p{
+    font-size: 17px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+.box06{
+    width:1220px ;
+    height: 366px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background: #fff;
+    margin-top: 20px;
+}
+.box06 table{
+    border-collapse: collapse;
+    border-spacing: 0px;
+    border-bottom-color: #fff;
+}
+.box06 table tr td{
+    text-align: center;
+    border: 1px solid #ccc;
+    /* border-bottom-color: #fff; */
+    height: 308px;
+    width: 334px;
+}
+.box06 table tr td p{
+    padding-top: 10px;
+}
+.box06 table tr td small{
+    color: #817f87;
+    padding-top: 10px;
+    font-size: 12px;
+}
+.box06 table tr td img{
+    width:247px ;
+    height:139px ;
+}
+.box06 table tr td  a{
+    text-decoration: none;
+    font-size: 13px;
+}
+.tou6{
+    width:1220px ;
+    height: 56px;
+    background: #fafafa;
+}
+.tou6 p{
+    font-size: 17px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+/* 以下内容为尾部 */
+#footer{
+	width: 100%;
+	height: 240px;
+	margin-top: 20px;
+	background: #fafafa;
+	color: #817f87;
+}
+#footer .inner{
+	width: 1200px;
+	margin: 0 auto;
+	
+}
+#footer .inner .left{
+	float: left;
+	padding-top: 30px;
+	font-size: 14px;
+}
+#footer dl{
+	width: 177px;
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+#footer dl dt{
+	margin-bottom: 15px;
+	font-weight: bold;
+}
+#footer a{
+	color: #817f87;
+	text-decoration: none;
+}
+#footer dl dd{
+	padding: 0;
+	margin: 0;
+	height: 12px;
+	margin-bottom: 12px;
+	color: #817f87;
+}
+#footer .right{
+	/*2斤*/
+	width: 315px;
+	height: 211px;
+	padding-top: 29px;
+	float: right;
+	font-size: 12px;
+	text-align: center;
+	background: #fafafa;
+}
+#footer .right .my_p01{
+	/*3斤*/
+	margin-bottom:20px ;
+    font-size: 14px;
+    font-weight: bold;
+    color: #8dabe7;
+}
+#footer .right .my_p02{
+	margin-top: 10px;
+	margin-bottom: 8px;
+}
+#footer .right .my_p03{
+	margin-bottom: 7px;
+}
